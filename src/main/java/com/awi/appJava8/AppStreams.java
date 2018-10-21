@@ -17,6 +17,7 @@ public class AppStreams {
 //      LogAwi(o.toString());
 //    }
 
+    //===================================== SETUP
     List<Integer> numeros = new ArrayList<>();
     for (int i = 0; i < 10000000; i++) {
       numeros.add((int) Math.round(Math.random() * 100));
@@ -24,6 +25,7 @@ public class AppStreams {
 
     System.out.println("Cantidad de elementos en Listado: " + numeros.size());
 
+    //===================================== STREAM
     for (int i = 0; i < 10; i++) {
       long start = System.currentTimeMillis();
       List<Integer> filteredList = numeros.stream()
@@ -33,6 +35,7 @@ public class AppStreams {
       System.out.printf("%d elements computed (STREAM) in %5d msecs with %d threads\n", filteredList.size(), System.currentTimeMillis() - start, Thread.activeCount());
     }
 
+    //===================================== PARALLEL STREAM
     for (int i = 0; i < 10; i++) {
       long start = System.currentTimeMillis();
       List<Integer> filteredList = numeros.parallelStream()

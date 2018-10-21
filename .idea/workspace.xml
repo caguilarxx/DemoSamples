@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec5e1364-f099-48dd-816f-583dd474bfcd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/awi/appJava8/AppDummy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/awi/appJava8/AppStreams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/awi/appReactiveX/AppRxClassesSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/awi/utils/LogUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/awi/TodoBusinessImplMockitoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/awi/app/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/awi/app/DemoCompletable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/awi/appJava8/DemoCompletable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/awi/appForMockito/business/TodoBusinessImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/awi/appForMockito/business/TodoBusinessImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/awi/appForMockito/service/TodoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/awi/appForMockito/service/TodoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/awi/StringHelperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/awi/StringHelperTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/awi/app/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/awi/app/DemoCompletable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/awi/appForJUnit/helper/StringHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/awi/StringHelperTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/awi/StringHelperTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/awi/appJava8/AppStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/awi/appJava8/AppStreams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/awi/appReactiveX/AppRxClassesSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/awi/appReactiveX/AppRxClassesSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/awi/utils/LogUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/awi/utils/LogUtils.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -50,27 +36,29 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="29" />
+          <entry key="gitignore" value="1" />
+          <entry key="java" value="32" />
           <entry key="xml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="29" />
+          <entry key="JAVA" value="32" />
+          <entry key="PLAIN_TEXT" value="1" />
           <entry key="XML" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="50" />
-          <entry key="java" value="4000" />
+          <entry key="java" value="4510" />
           <entry key="xml" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4000" />
+          <entry key="JAVA" value="4510" />
           <entry key="PLAIN_TEXT" value="50" />
           <entry key="XML" value="11" />
         </counts>
@@ -80,10 +68,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/awi/appJava8/AppStreams.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="471">
+              <caret line="37" column="51" selection-start-line="37" selection-start-column="51" selection-end-line="37" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/awi/appReactiveX/AppRxClassesSample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="187">
+              <caret line="35" column="43" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,47 +94,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/awi/utils/LogUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+            <state relative-caret-position="119">
+              <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
               <folding>
-                <element signature="e#89#90#0" expanded="true" />
-                <element signature="e#133#134#0" expanded="true" />
-                <element signature="e#170#171#0" expanded="true" />
-                <element signature="e#225#226#0" expanded="true" />
+                <element signature="e#180#181#0" expanded="true" />
+                <element signature="e#248#249#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/awi/appJava8/DemoCompletable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="42" column="51" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/awi/appJava8/AppStreams.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/awi/appJava8/AppDummy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -182,8 +147,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/awi/app/AppStreams.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/awi/LogUtils.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/awi/utils/LogUtils.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/awi/appJava8/AppStreams.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/awi/appReactiveX/AppRxClassesSample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/awi/appJava8/AppStreams.java" />
       </list>
     </option>
   </component>
@@ -311,15 +276,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="awi" type="462c0819:PsiDirectoryNode" />
-              <item name="appReactiveX" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="awi" type="462c0819:PsiDirectoryNode" />
               <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -352,7 +308,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540158328197" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540159477653" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../mockito-real-world-example-with-spring" />
     <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.0" />
@@ -488,7 +444,7 @@
       <workItem from="1539692863161" duration="3448000" />
       <workItem from="1539829175069" duration="968000" />
       <workItem from="1539891542481" duration="3171000" />
-      <workItem from="1540143916331" duration="5774000" />
+      <workItem from="1540143916331" duration="6935000" />
     </task>
     <servers />
   </component>
@@ -525,13 +481,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23502000" />
+    <option name="totallyTimeSpent" value="24663000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19189766" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19189766" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -540,7 +496,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -664,33 +620,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/awi/utils/LogUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-          <folding>
-            <element signature="e#89#90#0" expanded="true" />
-            <element signature="e#133#134#0" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#225#226#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/awi/appJava8/AppDummy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/awi/appJava8/AppStreams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -704,10 +637,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/awi/utils/LogUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+          <folding>
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/awi/appReactiveX/AppRxClassesSample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="187">
+          <caret line="35" column="43" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/awi/appJava8/AppStreams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="37" column="51" selection-start-line="37" selection-start-column="51" selection-end-line="37" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

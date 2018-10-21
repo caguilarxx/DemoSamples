@@ -6,7 +6,7 @@ public class LogUtils {
     System.out.println(msg.toString());
   }
 
-  public static void LogSeparator(){
-    System.out.println("\n=========> <=========\n");
+  public static void LogSeparator(String msg){
+    System.out.println("\n=========> " + msg + "<=========\n");
   }
 }

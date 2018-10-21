@@ -1,6 +1,7 @@
 package com.awi.appReactiveX;
 
 import io.reactivex.Completable;
+import io.reactivex.Observable;
 import io.reactivex.Single;
 import io.reactivex.schedulers.Schedulers;
 import lombok.extern.java.Log;
@@ -11,23 +12,39 @@ import static com.awi.utils.LogUtils.LogSeparator;
 @Log
 public class AppRxClassesSample {
 
-  public static void main(String[] args) {
+  public static void main(String[] args) throws InterruptedException {
 
-    Integer[] numbers = {3, 1, 5, 8, 65, 8, 2, 1, 7, 9, 6, 4};
+
+    //=====================================
+
+    LogSeparator("Single");
 
     myObserverSingle()
         .filter(number -> number > 4)
-        .subscribeOn(Schedulers.io())
+//        .subscribeOn(Schedulers.io())
         .subscribe(result -> {
           LogAwi("hilos: " + Thread.activeCount());
-          LogAwi(result);
+          LogAwi("Resultado Single : " + result);
         });
 
-    LogSeparator();
+    //=====================================
 
-    myObserverCompletable().subscribe();//(() -> LogAwi("Fin  Completable"));
+    LogSeparator("Completable");
+
+    myObserverCompletable().subscribe(() -> LogAwi("Fin Completable"));//(() -> LogAwi("Fin  Completable"));
+
+    //=====================================
+
+    LogSeparator("Observable");
+
+    myObservable()
+        .subscribeOn(Schedulers.io())
+        .subscribe(integer -> LogAwi("Observable result: " + integer));
+
+    //=====================================
+
+    Thread.sleep(3000);  //Si no equitas al thread responde rapido e ignora los otros hilos
     LogAwi("FinMainMethod");
-
   }
 
   private static Single<Integer> myObserverSingle() {
@@ -50,5 +67,16 @@ public class AppRxClassesSample {
       completableEmitter.onComplete();
     });
     return completable;
+  }
+
+  private static Observable<Integer> myObservable() {
+
+    Observable<Integer> myObservable = Observable.create(observableEmitter -> {
+      for (int i = 0; i < 5; i++) {
+//        LogAwi(String.valueOf(i));
+        observableEmitter.onNext(i);
+      }
+    });
+    return myObservable;
   }
 }
