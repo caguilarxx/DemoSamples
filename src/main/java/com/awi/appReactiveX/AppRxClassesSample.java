@@ -2,9 +2,11 @@ package com.awi.appReactiveX;
 
 import io.reactivex.Completable;
 import io.reactivex.Observable;
+import io.reactivex.Scheduler;
 import io.reactivex.Single;
 import io.reactivex.schedulers.Schedulers;
 import lombok.extern.java.Log;
+import org.reactivestreams.Subscription;
 
 import static com.awi.utils.LogUtils.LogAwi;
 import static com.awi.utils.LogUtils.LogSeparator;
@@ -31,7 +33,7 @@ public class AppRxClassesSample {
 
     LogSeparator("Completable");
 
-    myObserverCompletable().subscribe(() -> LogAwi("Fin Completable"));//(() -> LogAwi("Fin  Completable"));
+    myObserverCompletable().subscribe(() -> LogAwi("Fin Completable"));
 
     //=====================================
 
