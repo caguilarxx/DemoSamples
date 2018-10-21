@@ -1,4 +1,4 @@
-package com.awi.app;
+package com.awi.appJava8;
 
 import com.awi.model.Perro;
 import com.awi.model.Persona;

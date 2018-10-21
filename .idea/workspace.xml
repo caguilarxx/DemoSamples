@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec5e1364-f099-48dd-816f-583dd474bfcd" name="Default Changelist" comment="" />
+    <list default="true" id="ec5e1364-f099-48dd-816f-583dd474bfcd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/awi/appJava8/AppDummy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/awi/appJava8/AppStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/awi/appReactiveX/AppRxClassesSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/awi/utils/LogUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/awi/TodoBusinessImplMockitoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/awi/app/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/awi/app/DemoCompletable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/awi/appJava8/DemoCompletable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/awi/appForMockito/business/TodoBusinessImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/awi/appForMockito/business/TodoBusinessImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/awi/appForMockito/service/TodoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/awi/appForMockito/service/TodoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/awi/StringHelperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/awi/StringHelperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/awi/app/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/awi/app/DemoCompletable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/awi/appForJUnit/helper/StringHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/awi/StringHelperTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/awi/StringHelperTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,75 +37,104 @@
     <session id="1355126929">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="2" />
-          <entry key="project.open.time.7" value="3" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.open.time.7" value="4" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="14" />
-          <entry key="xml" value="3" />
+          <entry key="java" value="29" />
+          <entry key="xml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="14" />
-          <entry key="XML" value="3" />
+          <entry key="JAVA" value="29" />
+          <entry key="XML" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="27" />
-          <entry key="java" value="2302" />
-          <entry key="xml" value="6" />
+          <entry key="dummy" value="50" />
+          <entry key="java" value="4000" />
+          <entry key="xml" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2302" />
-          <entry key="PLAIN_TEXT" value="27" />
-          <entry key="XML" value="6" />
+          <entry key="JAVA" value="4000" />
+          <entry key="PLAIN_TEXT" value="50" />
+          <entry key="XML" value="11" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/awi/appForMockito/service/TodoService.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/awi/appReactiveX/AppRxClassesSample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/awi/appForMockito/business/TodoBusinessImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+            <state relative-caret-position="217">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#158#159#0" expanded="true" />
-                <element signature="e#198#199#0" expanded="true" />
-                <element signature="e#313#321#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/awi/utils/LogUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+            <state relative-caret-position="153">
+              <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+              <folding>
+                <element signature="e#89#90#0" expanded="true" />
+                <element signature="e#133#134#0" expanded="true" />
+                <element signature="e#170#171#0" expanded="true" />
+                <element signature="e#225#226#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/awi/appJava8/DemoCompletable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="42" column="51" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/awi/appJava8/AppStreams.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/awi/appJava8/AppDummy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -107,7 +154,11 @@
       <find>rx</find>
       <find>junit</find>
       <find>mockito</find>
+      <find>slf4j</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -117,13 +168,22 @@
         <option value="$PROJECT_DIR$/src/main/java/com/awi/model/Persona.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/awi/app/DemoCompletable.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/awi/appForJUnit/helper/StringHelper.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/awi/StringHelperTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/awi/appForMockito/service/impl/TodoBusinessImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/awi/appForMockito/service/TodoService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/awi/appForMockito/service/impl/TodoServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/awi/appForMockito/business/TodoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/awi/appForMockito/service/TodoService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/awi/appForMockito/business/TodoBusinessImpl.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/awi/StringHelperTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/awi/TodoBusinessImplMockitoTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/awi/app/AppDummy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/awi/appReactiveX/main.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/awi/appReactiveX/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/awi/app/AppStreams.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/awi/LogUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/awi/utils/LogUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/awi/appJava8/AppStreams.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/awi/appReactiveX/AppRxClassesSample.java" />
       </list>
     </option>
   </component>
@@ -194,13 +254,14 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -241,7 +302,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="awi" type="462c0819:PsiDirectoryNode" />
-              <item name="appForMockito" type="462c0819:PsiDirectoryNode" />
+              <item name="appJava8" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Demo" type="b2602c69:ProjectViewProjectNode" />
@@ -250,8 +311,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="awi" type="462c0819:PsiDirectoryNode" />
-              <item name="appForMockito" type="462c0819:PsiDirectoryNode" />
-              <item name="business" type="462c0819:PsiDirectoryNode" />
+              <item name="appReactiveX" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Demo" type="b2602c69:ProjectViewProjectNode" />
@@ -260,8 +320,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="awi" type="462c0819:PsiDirectoryNode" />
-              <item name="appForMockito" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Demo" type="b2602c69:ProjectViewProjectNode" />
@@ -293,9 +352,9 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539696579899" />
-    <property name="last_opened_file_path" value="E:/Cursos/Udemy - Mockito with JUnit/repository/MockitoTutorialForBeginners" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540158328197" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mockito-real-world-example-with-spring" />
+    <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
@@ -305,6 +364,7 @@
       <recent name="com.awi.appForMockito" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.awi.app" />
       <recent name="com.awi.appForJUnit.helper" />
     </key>
   </component>
@@ -320,13 +380,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.StringHelperTest">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.awi.app.App" />
+  <component name="RunManager">
+    <configuration name="AppDummy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.awi.appJava8.AppDummy" />
       <module name="Demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.awi.app.*" />
+          <option name="PATTERN" value="com.awi.appJava8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -334,12 +394,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoCompletable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.awi.app.DemoCompletable" />
+    <configuration name="AppRxClassesSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.awi.appReactiveX.AppRxClassesSample" />
       <module name="Demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.awi.app.*" />
+          <option name="PATTERN" value="com.awi.appReactiveX.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -347,66 +407,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringHelperTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AppStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.awi.appJava8.AppStreams" />
       <module name="Demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.awi.*" />
+          <option name="PATTERN" value="com.awi.appJava8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TodoBusinessImplMockitoTest.letsTestDeleteNow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.awi.utils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.awi" />
-      <option name="MAIN_CLASS_NAME" value="com.awi.StringHelperTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringHelperTest.shouldAnswerWithTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.awi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.awi" />
-      <option name="MAIN_CLASS_NAME" value="com.awi.StringHelperTest" />
-      <option name="METHOD_NAME" value="shouldAnswerWithTrue" />
+      <option name="MAIN_CLASS_NAME" value="com.awi.TodoBusinessImplMockitoTest" />
+      <option name="METHOD_NAME" value="letsTestDeleteNow" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringHelperTest.truncateAInFirst2Positions_2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TodoBusinessImplMockitoTest.usingMockito" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.awi.*" />
+          <option name="PATTERN" value="com.awi.utils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.awi" />
-      <option name="MAIN_CLASS_NAME" value="com.awi.StringHelperTest" />
-      <option name="METHOD_NAME" value="truncateAInFirst2Positions_2" />
+      <option name="MAIN_CLASS_NAME" value="com.awi.TodoBusinessImplMockitoTest" />
+      <option name="METHOD_NAME" value="usingMockito" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.App" />
-      <item itemvalue="Application.DemoCompletable" />
-      <item itemvalue="JUnit.StringHelperTest.shouldAnswerWithTrue" />
-      <item itemvalue="JUnit.StringHelperTest" />
-      <item itemvalue="JUnit.StringHelperTest.truncateAInFirst2Positions_2" />
+      <item itemvalue="JUnit.TodoBusinessImplMockitoTest.letsTestDeleteNow" />
+      <item itemvalue="JUnit.TodoBusinessImplMockitoTest.usingMockito" />
+      <item itemvalue="Application.AppDummy" />
+      <item itemvalue="Application.AppRxClassesSample" />
+      <item itemvalue="Application.AppStreams" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.StringHelperTest" />
-        <item itemvalue="JUnit.StringHelperTest.truncateAInFirst2Positions_2" />
-        <item itemvalue="JUnit.StringHelperTest.shouldAnswerWithTrue" />
-        <item itemvalue="Application.DemoCompletable" />
-        <item itemvalue="Application.App" />
+        <item itemvalue="Application.AppRxClassesSample" />
+        <item itemvalue="Application.AppStreams" />
+        <item itemvalue="Application.AppDummy" />
+        <item itemvalue="JUnit.TodoBusinessImplMockitoTest.letsTestDeleteNow" />
+        <item itemvalue="JUnit.TodoBusinessImplMockitoTest.usingMockito" />
       </list>
     </recent_temporary>
   </component>
@@ -426,23 +485,14 @@
       <workItem from="1538974128065" duration="672000" />
       <workItem from="1538974824885" duration="2636000" />
       <workItem from="1539651958925" duration="2983000" />
-      <workItem from="1539692863161" duration="2938000" />
+      <workItem from="1539692863161" duration="3448000" />
+      <workItem from="1539829175069" duration="968000" />
+      <workItem from="1539891542481" duration="3171000" />
+      <workItem from="1540143916331" duration="5774000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StringHelperTest_shouldAnswerWithTrue - 2018.10.15 at 20h 23m 09s.xml">
-      <configuration name="StringHelperTest.shouldAnswerWithTrue" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StringHelperTest_shouldAnswerWithTrue - 2018.10.15 at 20h 25m 40s.xml">
-      <configuration name="StringHelperTest.shouldAnswerWithTrue" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StringHelperTest - 2018.10.15 at 20h 25m 58s.xml">
-      <configuration name="StringHelperTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StringHelperTest - 2018.10.15 at 20h 26m 11s.xml">
-      <configuration name="StringHelperTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="StringHelperTest - 2018.10.15 at 20h 27m 00s.xml">
       <configuration name="StringHelperTest" configurationId="JUnit" />
     </history-entry>
@@ -461,15 +511,27 @@
     <history-entry file="StringHelperTest - 2018.10.15 at 20h 38m 42s.xml">
       <configuration name="StringHelperTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="StringHelperTest - 2018.10.18 at 14h 43m 20s.xml">
+      <configuration name="StringHelperTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TodoBusinessImplMockitoTest_usingMockito - 2018.10.18 at 14h 43m 42s.xml">
+      <configuration name="TodoBusinessImplMockitoTest.usingMockito" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TodoBusinessImplMockitoTest_usingMockito - 2018.10.18 at 14h 44m 15s.xml">
+      <configuration name="TodoBusinessImplMockitoTest.usingMockito" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TodoBusinessImplMockitoTest_letsTestDeleteNow - 2018.10.18 at 14h 47m 23s.xml">
+      <configuration name="TodoBusinessImplMockitoTest.letsTestDeleteNow" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13079000" />
+    <option name="totallyTimeSpent" value="23502000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18550107" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19189766" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -478,7 +540,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -510,13 +572,13 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/awi/app/DemoCompletable.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/awi/appJava8/DemoCompletable.java</url>
           <line>50</line>
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/awi/app/DemoCompletable.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/awi/appJava8/DemoCompletable.java</url>
           <line>45</line>
           <properties />
           <option name="timeStamp" value="7" />
@@ -534,9 +596,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="22" selection-start-column="22" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -544,9 +603,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -564,19 +620,83 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/awi/app/App.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/awi/StringHelperTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="3" selection-start-line="12" selection-end-line="13" />
+        <state relative-caret-position="247">
+          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/awi/app/DemoCompletable.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/awi/appForMockito/business/TodoBusinessImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="574">
+        <state relative-caret-position="315">
+          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="607">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/awi/appForMockito/service/TodoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/awi/TodoBusinessImplMockitoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="734">
+          <caret line="50" column="38" selection-start-line="37" selection-start-column="6" selection-end-line="50" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/awi/utils/LogUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+          <folding>
+            <element signature="e#89#90#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/awi/appJava8/AppDummy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/awi/appJava8/AppStreams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/awi/appJava8/DemoCompletable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
           <caret line="42" column="51" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -584,40 +704,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/awi/StringHelperTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/awi/appReactiveX/AppRxClassesSample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="217">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/awi/appForMockito/service/TodoService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/awi/appForMockito/business/TodoBusinessImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#158#159#0" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#313#321#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
         </state>
       </provider>
     </entry>

@@ -10,7 +10,6 @@ import org.mockito.runners.MockitoJUnitRunner;
 
 import static org.junit.Assert.assertEquals;
 
-@Slf4j
 @RunWith(MockitoJUnitRunner.class)
 public class StringHelperTest {
 
